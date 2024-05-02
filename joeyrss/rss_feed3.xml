@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
+    <channel>
+        <title>Studio Test Podcast</title>
+        <author>The Studio</author>
+        <description>lets try this again and hit the right button this time</description>
+        <image>
+            <url>https://s-lib018.lib.uiowa.edu/ethan_sixties/wp-content/uploads/podcast_uploads/image2.png</url>
+        </image>            <item>
+            <title></title>
+            <series></series>
+            <description>lets try this again and hit the right button this time</description>
+            <author></author>
+            <enclosure url="https://s-lib018.lib.uiowa.edu/ethan_sixties/wp-content/uploads/podcast_uploads/" type="audio/mpeg" />
+            <duration></duration>
+            <image href="https://s-lib018.lib.uiowa.edu/ethan_sixties/wp-content/uploads/podcast_uploads/" />
+            <pubDate>Tue, 30 Apr 2024 19:34:33 GMT</pubDate>
+            <guid>c3189f7afd9e4eede777981674537c07</guid>
+        </item></channel> </rss>

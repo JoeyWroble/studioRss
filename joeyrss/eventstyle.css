@@ -1,0 +1,29 @@
+/*
+Custom styles just for the events page test
+*/
+
+.divider {
+  display: flex;
+  
+  &:before,
+  &:after {
+    content: "";
+    flex: 1;
+  }
+}
+  .donotcross {
+  overflow: hidden;
+  align-items: center;
+  background: hsl(50, 100%, 50%);
+  color: black;
+  height: 2em;
+  line-height: 2em;
+	
+  &:before,
+  &:after {
+    background-color: white;
+    padding: 50px 0;
+    height: 0;
+    transform: rotate(45deg);
+  }
+}

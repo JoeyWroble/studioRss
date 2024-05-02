@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
+    <channel>
+            <item>
+        <title>testing this once again</title>
+        <series></series>
+        <description></description>
+        <author></author>
+        <enclosure url="https://s-lib018.lib.uiowa.edu/ethan_sixties/wp-content/uploads/podcast_uploads/testing.mp3" type="audio/mpeg" />
+        <duration>42.057143</duration>
+        <image href="https://s-lib018.lib.uiowa.edu/ethan_sixties/wp-content/uploads/podcast_uploads/" />
+        <pubDate>Tue, 23 Apr 2024 19:22:49 GMT</pubDate>
+        <guid>443da4ae1095f5ba750f7da75dfd27a1</guid>
+    </item>
+    </channel>
+</rss>    

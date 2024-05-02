@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
+    <channel>
+        <title>testing</title>
+        <author></author>
+        <description></description>
+        <image>
+            <url>https://s-lib018.lib.uiowa.edu/ethan_sixties/wp-content/uploads/podcast_uploads/</url>
+        </image>            <item>
+            <title></title>
+            <series></series>
+            <description></description>
+            <author></author>
+            <enclosure url="https://s-lib018.lib.uiowa.edu/ethan_sixties/wp-content/uploads/podcast_uploads/" type="audio/mpeg" />
+            <duration></duration>
+            <image href="https://s-lib018.lib.uiowa.edu/ethan_sixties/wp-content/uploads/podcast_uploads/" />
+            <pubDate>Thu, 02 May 2024 17:21:36 GMT</pubDate>
+            <guid>88f67afd7995ea67d923fc1d45492410</guid>
+        </item></channel> </rss>

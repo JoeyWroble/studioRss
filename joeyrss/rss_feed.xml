@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
+    <channel>
+        <title></title>
+        <author></author>
+        <description>So good</description>
+        <image>
+            <url>https://s-lib018.lib.uiowa.edu/ethan_sixties/wp-content/uploads/podcast_uploads/</url>
+        </image>            <item>
+            <title>Episode 1</title>
+            <series>The Amazing Show</series>
+            <description>So good</description>
+            <author>All of us</author>
+            <enclosure url="https://s-lib018.lib.uiowa.edu/ethan_sixties/wp-content/uploads/podcast_uploads/testing.mp3" type="audio/mpeg" />
+            <duration>42.057143</duration>
+            <image href="https://s-lib018.lib.uiowa.edu/ethan_sixties/wp-content/uploads/podcast_uploads/image2.jpg" />
+            <pubDate>Tue, 30 Apr 2024 19:28:59 GMT</pubDate>
+            <guid>ee779b2ed254eddc2abca0bd236d0bef</guid>
+        </item></channel> </rss>

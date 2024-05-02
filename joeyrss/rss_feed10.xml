@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
+    <channel>
+        <title>te=ry</title>
+        <author>try</author>
+        <description>tghua</description>
+        <image>
+            <url>"/local/vol00/srv/www/htdocs/ethan_sixties/wp-content/uploads/podcast_uploads/nando-jpeg-quality-001.jpeg"</url>
+        </image>
+
+                <item>
+            <title></title>
+            <series></series>
+            <description>tghua</description>
+            <author></author>
+            <enclosure url="https://s-lib018.lib.uiowa.edu/ethan_sixties/wp-content/uploads/podcast_uploads/" type="audio/mpeg" />
+            <duration></duration>
+            <image href="https://s-lib018.lib.uiowa.edu/ethan_sixties/wp-content/uploads/podcast_uploads/" />
+            <pubDate>Thu, 25 Apr 2024 19:30:49 GMT</pubDate>
+            <guid>f9468cb13d6917a61b56c09bd1ccec16</guid>
+        </item>        <item>
+            <title></title>
+            <series></series>
+            <description></description>
+            <author></author>
+            <enclosure url="https://s-lib018.lib.uiowa.edu/ethan_sixties/wp-content/uploads/podcast_uploads/" type="audio/mpeg" />
+            <duration></duration>
+            <image href="https://s-lib018.lib.uiowa.edu/ethan_sixties/wp-content/uploads/podcast_uploads/" />
+            <pubDate>Thu, 25 Apr 2024 19:49:37 GMT</pubDate>
+            <guid>5dd1712c2c5d2c84f93090384fd8434d</guid>
+        </item>
